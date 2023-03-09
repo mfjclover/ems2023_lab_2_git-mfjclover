@@ -1,0 +1,27 @@
+html,body {
+    height:100%;
+    background: #9245d0;
+}
+header {
+    display:block;
+    background: #c1ffa1;
+    padding:10px 0px;
+}
+section {
+    width: 79%;
+    float: left;
+    overflow: auto;
+    padding-bottom: 60px;
+    padding-top:30px;
+    color: #ff4646;
+}
+footer {
+    position: relative;
+    margin-top: -50px;
+    height: 40px;
+    padding:5px 0px;
+    clear: both;
+    background: #7abdff;
+    text-align: center;
+    color: #130000;
+}
