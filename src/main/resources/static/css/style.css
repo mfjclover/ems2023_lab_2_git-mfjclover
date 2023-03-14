@@ -1,10 +1,10 @@
 html,body {
     height:100%;
-    background: #ffffff;
+    background: #f6edff;
 }
 header {
     display:block;
-    background: #ffffff;
+    background: #f6edff;
     padding:10px 0px;
 }
 section {
@@ -23,5 +23,5 @@ footer {
     clear: both;
     background: #f6edff;
     text-align: center;
-    color: #000000;
+    color: #130000;
 }
